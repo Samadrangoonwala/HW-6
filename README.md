@@ -17,9 +17,9 @@
 
 <!-- Link to your shapefile in Github and you CSV -->
 <h2>Data used for this project</h2>
-    <a href="HW6-CVS.cvs"> CSV dataset </a>
+    <a href="HW6-CVS.csv"> CSV dataset </a>
     <p></p>
-    <a href=""CO-County.shp""> Link to shapefile </a>
+    <a href="CO-County.shp"> Link to shapefile </a>
 
 </body>
 </html>
