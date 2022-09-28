@@ -8,8 +8,8 @@
 </head>
 <body>
 <h1>Homework 6: Census data choropleth </h1>
-<h2>YOUR NAME</h2>
-<h3>Description of your map</h3>
+<h2>Samad Rangoonwala</h2>
+<h3>Colorado a state in the mountain west region of the US is rocky and rural in the west and flat and agriculural in the east. It's economy is mostly centered around the city of denver, this map shows the labor force particpation by county with a low of 44.43% in Freemont county and a high of 78% in Eagle County. The use of green is do to labor force particpation being a key indicator of economic stablity, green which is associated with money fits.</h3>
 <!-- Your map goes here -->
 <a href="HW6.png">
     <img src="HW6.png" alt="HW6" width='500px'>
